@@ -11,7 +11,7 @@ The blueprint snippet in the image I have provided below shows evidence in demon
 
 
 <div style="text-align: center;">
-    <a href="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/flying_bp.png" target="_blank">
+    <a href="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/Screenshot%202024-04-28%20110144.png" target="_blank">
 		<img src="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/flying_bp.png" width="1920px" title="Health System Blueprint" />
 	</a>
     <p><em>Figure 1 - Flying System Blueprint in Unreal Engine 5 - GAM-380 Game Experiential Learning</em></p>
