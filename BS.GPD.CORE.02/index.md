@@ -12,13 +12,13 @@ I added a powerup in the game that allows the player character to fly, this is i
 
 <div style="text-align: center;">
     <a href="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/Screenshot%202024-04-28%20110144.png" target="_blank">
-		<img src="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/flying_bp.png" width="1920px" title="Health System Blueprint" />
+		<img src="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/flying_bp.png" width="1920px" title="Flying System Blueprint" />
 	</a>
     <p><em>Figure 1 - Flying System Blueprint in Unreal Engine 5 - GAM-380 Game Experiential Learning</em></p>
 </div>
 <div style="text-align: center;">
     <a href="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/flying_controls.png" target="_blank">
-		<img src="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/flying_controls.png" width="1920px" title="Health System Blueprint" />
+		<img src="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/flying_controls.png" width="1920px" title="Flying Controls Blueprint" />
 	</a>
     <p><em>Figure 1 - Flying Controls Blueprint in Unreal Engine 5 - GAM-380 Game Experiential Learning</em></p>
 </div>
