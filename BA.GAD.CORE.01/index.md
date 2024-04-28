@@ -16,4 +16,9 @@ To enhance the visual fidelity of my game, I added a dynamic visual effect using
 	</a>
     <p><em>Figure 1 - VFX in Unreal Engine 5 - GAM-380 Game Experiential Learning</em></p>
 </div>
-
+<div style="text-align: center;">
+    <a href="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/VFX.png" target="_blank">
+		<img src="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/VFX.png" width="1920px" title="VFX" />
+	</a>
+    <p><em>Figure 1 - VFX in Unreal Engine 5 - GAM-380 Game Experiential Learning</em></p>
+</div>
