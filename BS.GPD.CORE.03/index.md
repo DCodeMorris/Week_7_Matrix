@@ -6,7 +6,7 @@ layout: default
 
 <p style="text-indent: 55px;">
 	
-I have acquired a large amount of knowledge since I started my journey in the Computer Science program in November of 2018. The additional confidence I gained allows me to continue excelling in the computer science field. This ePortfolio serves as an incentive to illustrate my competency and mastery of my professional goals to develop a successful career in computer science. In completing my journey, I will pursue a career in Cybersecurity, a field closely associated with computer science as a top option. While reviewing my skills and abilities throughout my provided technical artifacts, I show I have a strong foundation in computer science with heightened knowledge of importance for security that powers my drive for becoming a Cybersecurity professional.
+The blueprint snippet in the image I have provided below shows evidence in demonstrating my coding proficiency.  It showcases my ability to create and execute clear and effective code in a game engine environment.  The blueprint uses different variables with set values for player characters health.  I implemented conditions by using a branch to determine when the player character should ragdoll (die).  In the blueprint it shows if the value is 0.0 the player character will ragdoll.  This is all controlled by the event, delays are included to provide a more realistic animation when the player character reaches 0 health, a value set by default within the health variable.  When creating blueprints, keeping them organized is also important and best practices used such as commenting each section of the blueprints to provide clear and organized blueprints, this also provides easier troubleshooting if any errors arise I have the ability to easily find the section to fix.
 </p>
 
 
@@ -16,4 +16,3 @@ I have acquired a large amount of knowledge since I started my journey in the Co
 	</a>
     <p><em>Figure 1 - Health System Blueprint in Unreal Engine 5 - GAM-380 Game Experiential Learning</em></p>
 </div>
-
