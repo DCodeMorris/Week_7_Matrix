@@ -11,8 +11,9 @@ I have acquired a large amount of knowledge since I started my journey in the Co
 
 
 <div style="text-align: center;">
-    <a href="https://github.com/DCodeMorris/ePortfolio/blob/main/assets/img/Salvare%20Screenshot%20Artifact%202.png" target="_blank">
-		<img src="assets/img/health_system_bp.png" width="1920px" title="Salvare Application Screenshot" />
+    <a href="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/health_system_bp.png" target="_blank">
+		<img src="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/health_system_bp.png" width="1920px" title="Health System Blueprint" />
 	</a>
     <p><em>Figure 1 - Health System Blueprint in Unreal Engine 5 - GAM-380 Game Experiential Learning</em></p>
 </div>
+
