@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## **BS.GPD.CORE.02 Evidence**
+## **BS.GPD.CORE.01 Evidence**
 
 <p style="text-indent: 55px;">
 	
