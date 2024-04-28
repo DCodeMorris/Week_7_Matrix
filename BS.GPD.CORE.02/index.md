@@ -20,5 +20,5 @@ I added a powerup in the game that allows the player character to fly, this is i
     <a href="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/flying_controls.png" target="_blank">
 		<img src="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/flying_controls.png" width="1920px" title="Flying Controls Blueprint" />
 	</a>
-    <p><em>Figure 1 - Flying Controls Blueprint in Unreal Engine 5 - GAM-380 Game Experiential Learning</em></p>
+    <p><em>Figure 2 - Flying Controls Blueprint in Unreal Engine 5 - GAM-380 Game Experiential Learning</em></p>
 </div>
