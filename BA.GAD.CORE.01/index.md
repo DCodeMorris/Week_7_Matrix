@@ -2,18 +2,18 @@
 layout: default
 ---
 
-## **BS.GPD.CORE.02 Evidence**
+## **BA.GAD.CORE.01**
 
 <p style="text-indent: 55px;">
 	
-I have acquired a large amount of knowledge since I started my journey in the Computer Science program in November of 2018. The additional confidence I gained allows me to continue excelling in the computer science field. This ePortfolio serves as an incentive to illustrate my competency and mastery of my professional goals to develop a successful career in computer science. In completing my journey, I will pursue a career in Cybersecurity, a field closely associated with computer science as a top option. While reviewing my skills and abilities throughout my provided technical artifacts, I show I have a strong foundation in computer science with heightened knowledge of importance for security that powers my drive for becoming a Cybersecurity professional.
+To enhance the visual fidelity of my game, I added a dynamic visual effect using Unreal Engine's Niagara system. The effect consists of a particle system that emits red glowing particles within specific areas of the game levels, creating an aesthetically pleasing and technically advanced element.  The Niagara system provided control over the movement, size range, speed, shape, and color of the particles. This level of control allowed me to create a visually striking effect that added depth and immersion to the game environment. By leveraging the capabilities of the Niagara system, I was able to design and develop a professional-quality visual effect that enhances the overall visual appeal and engagement of the game.  This explanation effectively highlights my use of technical and aesthetic design principles to create engaging and dynamic experiences.
 </p>
 
 
 <div style="text-align: center;">
-    <a href="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/health_system_bp.png" target="_blank">
-		<img src="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/health_system_bp.png" width="1920px" title="Health System Blueprint" />
+    <a href="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/VFX.png" target="_blank">
+		<img src="https://github.com/DCodeMorris/Week_7_Matrix/blob/main/assets/img/VFX.png" width="1920px" title="VFX" />
 	</a>
-    <p><em>Figure 1 - Health System Blueprint in Unreal Engine 5 - GAM-380 Game Experiential Learning</em></p>
+    <p><em>Figure 1 - VFX in Unreal Engine 5 - GAM-380 Game Experiential Learning</em></p>
 </div>
 
