@@ -12,7 +12,7 @@ I have acquired a large amount of knowledge since I started my journey in the Co
 
 <div style="text-align: center;">
     <a href="https://github.com/DCodeMorris/ePortfolio/blob/main/assets/img/Salvare%20Screenshot%20Artifact%202.png" target="_blank">
-		<img src="assets/img/Salvare Screenshot Artifact 2.png" width="720px" title="Salvare Application Screenshot" />
+		<img src="assets/img/health_system_bp.png" width="1920px" title="Salvare Application Screenshot" />
 	</a>
     <p><em>Figure 2 - Salvare Web App with Search Algorithm Enhancement - CS-340 Client/Server Development</em></p>
 </div>
