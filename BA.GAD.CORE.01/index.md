@@ -16,4 +16,3 @@ I have acquired a large amount of knowledge since I started my journey in the Co
 	</a>
     <p><em>Figure 1 - Health System Blueprint in Unreal Engine 5 - GAM-380 Game Experiential Learning</em></p>
 </div>
-
